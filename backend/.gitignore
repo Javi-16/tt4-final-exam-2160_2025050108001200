@@ -1,0 +1,12 @@
+﻿# Build and publish
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+
+# SQLite database
+*.db
+
+# VS Code settings
+.vscode/
